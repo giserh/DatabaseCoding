@@ -1,0 +1,26 @@
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\DatabaseKYH\DatabaseKYH\DatabaseKYH\bin\Debug\DatabaseKYH.exe.config
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\DatabaseKYH\DatabaseKYH\DatabaseKYH\bin\Debug\DatabaseKYH.exe
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\DatabaseKYH\DatabaseKYH\DatabaseKYH\bin\Debug\DatabaseKYH.pdb
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\DatabaseKYH\DatabaseKYH\DatabaseKYH\obj\Debug\DatabaseKYH.csprojResolveAssemblyReference.cache
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\DatabaseKYH\DatabaseKYH\DatabaseKYH\obj\Debug\DatabaseKYH.Properties.Resources.resources
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\DatabaseKYH\DatabaseKYH\DatabaseKYH\obj\Debug\DatabaseKYH.csproj.GenerateResource.Cache
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\DatabaseKYH\DatabaseKYH\DatabaseKYH\obj\Debug\DatabaseKYH.exe
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\DatabaseKYH\DatabaseKYH\DatabaseKYH\obj\Debug\DatabaseKYH.pdb
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\DatabaseKYH\DatabaseKYH\DatabaseKYH\bin\Debug\Npgsql.dll
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\DatabaseKYH\DatabaseKYH\DatabaseKYH\bin\Debug\Npgsql.xml
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\DatabaseKYH\DatabaseKYH\DatabaseKYH\obj\Debug\DatabaseKYH.LoginForm.resources
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\DatabaseKYH\DatabaseKYH\DatabaseKYH\obj\Debug\DatabaseKYH.MainForm.resources
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\期末\源代码\DatabaseKYH\bin\Debug\DatabaseKYH.exe.config
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\期末\源代码\DatabaseKYH\obj\Debug\DatabaseKYH.exe
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\期末\源代码\DatabaseKYH\obj\Debug\DatabaseKYH.pdb
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\2014301130041康雨豪期末作业\源代码\DatabaseKYH\bin\Debug\DatabaseKYH.exe.config
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\2014301130041康雨豪期末作业\源代码\DatabaseKYH\obj\Debug\DatabaseKYH.exe
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\2014301130041康雨豪期末作业\源代码\DatabaseKYH\obj\Debug\DatabaseKYH.pdb
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\2014301130041康雨豪期末作业\源代码\DatabaseKYH\bin\Debug\DatabaseKYH.exe
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\2014301130041康雨豪期末作业\源代码\DatabaseKYH\bin\Debug\DatabaseKYH.pdb
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\2014301130041康雨豪期末作业\源代码\DatabaseKYH\bin\Debug\Npgsql.xml
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\2014301130041康雨豪期末作业\源代码\DatabaseKYH\obj\Debug\DatabaseKYH.csprojResolveAssemblyReference.cache
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\2014301130041康雨豪期末作业\源代码\DatabaseKYH\obj\Debug\DatabaseKYH.LoginForm.resources
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\2014301130041康雨豪期末作业\源代码\DatabaseKYH\obj\Debug\DatabaseKYH.MainForm.resources
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\2014301130041康雨豪期末作业\源代码\DatabaseKYH\obj\Debug\DatabaseKYH.Properties.Resources.resources
+E:\Users\KYH\Documents\KYH\学业\SQL Server数据库编程\2014301130041康雨豪期末作业\源代码\DatabaseKYH\obj\Debug\DatabaseKYH.csproj.GenerateResource.Cache
